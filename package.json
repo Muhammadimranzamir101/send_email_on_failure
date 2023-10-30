@@ -1,0 +1,27 @@
+{
+  "name": "local_email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammadimranzamir101/send_email_on_failure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammadimranzamir101/send_email_on_failure/issues"
+  },
+  "homepage": "https://github.com/Muhammadimranzamir101/send_email_on_failure#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
